@@ -2,9 +2,9 @@ import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
-import homestoreImg from "@/public/homestore.png";
-import whsmithImg from "@/public/whsmith.png";
-import gatwickImg from "@/public/gatwick.png";
+import homestoreImg from "../public/homestore.png";
+import whsmithImg from "../public/whsmith.png";
+import gatwickImg from "../public/gatwick.png";
 
 export const links = [
     {
